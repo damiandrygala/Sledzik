@@ -1,7 +1,7 @@
 # The Tracker
 ## 1. Description
 Software for monitoring the location of objects based on GPS receiver data.
-UI views and details are avaible in user guide: [Manual(Tracker)-draft_pl.pdf](https://github.com/damiandrygala/Sledzik/)
+UI views and details are avaible in user guide: [Manual(Tracker)-draft_pl.pdf](https://github.com/damiandrygala/Sledzik/blob/main/Manual(Tracker)-draft_pl.pdf)
 ## 2. Features
 - Definig tracking zones
 - Detecting and reporting violations of the assigned zone
