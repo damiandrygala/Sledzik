@@ -1,0 +1,15 @@
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\bin\Debug\net6.0\TrackerApi.Proximity.deps.json
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\bin\Debug\net6.0\TrackerApi.Proximity.dll
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\bin\Debug\net6.0\TrackerApi.Proximity.pdb
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\TrackerApi.Proximity.csproj.AssemblyReference.cache
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\TrackerApi.Proximity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\TrackerApi.Proximity.AssemblyInfoInputs.cache
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\TrackerApi.Proximity.AssemblyInfo.cs
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\TrackerApi.Proximity.csproj.CoreCompileInputs.cache
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\TrackerApi.Proximity.dll
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\refint\TrackerApi.Proximity.dll
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\TrackerApi.Proximity.pdb
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\ref\TrackerApi.Proximity.dll
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\bin\Debug\net6.0\TrackerApi.Infrastructure.Mongo.dll
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\bin\Debug\net6.0\TrackerApi.Infrastructure.Mongo.pdb
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Proximity\obj\Debug\net6.0\TrackerApi.Proximity.csproj.CopyComplete

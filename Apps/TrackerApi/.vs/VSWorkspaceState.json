@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TrackerApi",
+    "\\TrackerApi\\Features",
+    "\\TrackerApi\\Features\\Zones"
+  ],
+  "SelectedNode": "\\TrackerApi\\Features\\Zones\\ZoneController.cs",
+  "PreviewInSolutionExplorer": false
+}

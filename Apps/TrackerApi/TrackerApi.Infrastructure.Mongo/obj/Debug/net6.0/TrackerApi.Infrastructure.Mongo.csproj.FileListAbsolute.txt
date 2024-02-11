@@ -1,0 +1,12 @@
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\bin\Debug\net6.0\TrackerApi.Infrastructure.Mongo.deps.json
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\bin\Debug\net6.0\TrackerApi.Infrastructure.Mongo.dll
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\bin\Debug\net6.0\TrackerApi.Infrastructure.Mongo.pdb
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\obj\Debug\net6.0\TrackerApi.Infrastructure.Mongo.csproj.AssemblyReference.cache
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\obj\Debug\net6.0\TrackerApi.Infrastructure.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\obj\Debug\net6.0\TrackerApi.Infrastructure.Mongo.AssemblyInfoInputs.cache
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\obj\Debug\net6.0\TrackerApi.Infrastructure.Mongo.AssemblyInfo.cs
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\obj\Debug\net6.0\TrackerApi.Infrastructure.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\obj\Debug\net6.0\TrackerApi.Infrastructure.Mongo.dll
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\obj\Debug\net6.0\refint\TrackerApi.Infrastructure.Mongo.dll
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\obj\Debug\net6.0\TrackerApi.Infrastructure.Mongo.pdb
+C:\Users\work\AAARepos\Sledzik\Apps\TrackerApi\TrackerApi.Infrastructure.Mongo\obj\Debug\net6.0\ref\TrackerApi.Infrastructure.Mongo.dll
