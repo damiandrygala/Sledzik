@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrackerApi.Proximity.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1620ab85d3d81d9762bf233dfac0ee110fb4afa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrackerApi.Proximity.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrackerApi.Proximity.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

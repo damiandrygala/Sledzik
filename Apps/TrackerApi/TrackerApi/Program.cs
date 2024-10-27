@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("CorsPolicy", builder => builder
-        .WithOrigins("http://localhost:8080", "http://192.168.1.5:8080", "http://192.168.100.104:8080")
+        .WithOrigins("http://localhost:8080", "http://192.168.1.20:5200", "http://192.168.1.20:8080")
         .AllowAnyMethod()
         .AllowAnyHeader()
         .AllowCredentials());
@@ -39,4 +39,4 @@ app.UseSwaggerUI(options =>
 });
 
 //app.Run();                                // global https://sledz.fokser.com
-app.Run("http://192.168.1.5:5200");       // local
+app.Run("http://192.168.1.20:5200");       // local

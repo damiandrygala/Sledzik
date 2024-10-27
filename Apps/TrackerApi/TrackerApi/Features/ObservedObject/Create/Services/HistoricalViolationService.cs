@@ -13,8 +13,10 @@ namespace TrackerApi.Features.ObservedObject.Create.Services
         }
 
         public async Task<Task> Create(ObservedObjectDocument observedObject)
-        {            
-            var newViolations = observedObject.ViolatedZoneIds.Where(zone => !activeViolations.Select(x => x.ViolatedZoneId).Contains(zone)).ToList();
+        {
+            //var newViolations = observedObject.ViolatedZoneIds.Where(zone => !activeViolations.Select(x => x.ViolatedZoneId).Contains(zone)).ToList();
+            var newViolations = new List<string>();
+
             foreach (var zoneId in newViolations)
             {
                 await _repository.Create(new AnalysisDocument()

@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using TrackerApi.Infrastructure.Mongo;
 using TrackerApi.Infrastructure.Mongo.Documents;
 
 namespace TrackerApi.Features.DeviceToZone.Assign

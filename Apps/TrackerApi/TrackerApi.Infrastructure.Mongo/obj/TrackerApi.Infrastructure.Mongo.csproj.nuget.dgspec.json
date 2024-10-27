@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\work\\AAARepos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\TrackerApi.Infrastructure.Mongo.csproj": {}
+    "C:\\Users\\dldry\\_repos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\TrackerApi.Infrastructure.Mongo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\work\\AAARepos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\TrackerApi.Infrastructure.Mongo.csproj": {
+    "C:\\Users\\dldry\\_repos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\TrackerApi.Infrastructure.Mongo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\work\\AAARepos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\TrackerApi.Infrastructure.Mongo.csproj",
+        "projectUniqueName": "C:\\Users\\dldry\\_repos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\TrackerApi.Infrastructure.Mongo.csproj",
         "projectName": "TrackerApi.Infrastructure.Mongo",
-        "projectPath": "C:\\Users\\work\\AAARepos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\TrackerApi.Infrastructure.Mongo.csproj",
-        "packagesPath": "C:\\Users\\work\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\work\\AAARepos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\obj\\",
+        "projectPath": "C:\\Users\\dldry\\_repos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\TrackerApi.Infrastructure.Mongo.csproj",
+        "packagesPath": "C:\\Users\\dldry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dldry\\_repos\\Sledzik\\Apps\\TrackerApi\\TrackerApi.Infrastructure.Mongo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\work\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dldry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -73,12 +74,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
