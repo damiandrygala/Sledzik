@@ -1,4 +1,0 @@
-org/capacitor/quasar/app/BuildConfig.java
- org.capacitor.quasar.app.BuildConfig
-org/capacitor/quasar/app/MainActivity.java
- org.capacitor.quasar.app.MainActivity

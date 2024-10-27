@@ -4,13 +4,13 @@
 4    package="capacitor.android.plugins" >
 5
 6    <uses-sdk
-7        android:minSdkVersion="21"
-7-->C:\Users\work\AAARepos\Sledzik\Apps\Tracker\src-capacitor\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+7        android:minSdkVersion="22"
+7-->C:\Users\dldry\_repos\Sledzik\Apps\Tracker\src-capacitor\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
 8        android:targetSdkVersion="30" />
-8-->C:\Users\work\AAARepos\Sledzik\Apps\Tracker\src-capacitor\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+8-->C:\Users\dldry\_repos\Sledzik\Apps\Tracker\src-capacitor\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
 9
 10    <application>
-10-->C:\Users\work\AAARepos\Sledzik\Apps\Tracker\src-capacitor\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:5:1-7:15
+10-->C:\Users\dldry\_repos\Sledzik\Apps\Tracker\src-capacitor\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:5:1-7:15
 11    </application>
 12
 13</manifest>

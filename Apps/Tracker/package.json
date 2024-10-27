@@ -11,6 +11,8 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
+    "@capacitor/device": "^6.0.1",
+    "@capacitor/geolocation": "^6.0.1",
     "@microsoft/signalr": "^8.0.0",
     "@quasar/extras": "^1.0.0",
     "axios": "^0.21.1",
@@ -22,6 +24,7 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
+    "@capacitor/cli": "^6.1.2",
     "@quasar/app-webpack": "^3.0.0",
     "eslint": "^8.10.0",
     "eslint-config-prettier": "^8.1.0",
