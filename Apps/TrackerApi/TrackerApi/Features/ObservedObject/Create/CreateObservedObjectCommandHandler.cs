@@ -19,7 +19,7 @@ namespace TrackerApi.Features.GpsData.Create
         {
             _repository = repository;
             _signalRContext = singlarContext;
-            _publisher = publisher;
+            //_publisher = publisher;
         }
 
         public async Task<Unit> Handle(CreateObservedObjectCommand request, CancellationToken cancellationToken)
@@ -51,7 +51,7 @@ namespace TrackerApi.Features.GpsData.Create
 
             await _repository.Create(observedObject);
             await _signalRContext.Clients.All.SendAsync("CoordinatesObservedObjectReceived", observedObject);
-            await _publisher.Publish(observedObject.Id);
+            //await _publisher.Publish(observedObject.Id);
 
             return Unit.Value;
         }

@@ -8,12 +8,16 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("CorsPolicy", builder => builder
-        .WithOrigins("http://localhost:8080", "http://192.168.1.20:5200", "http://192.168.1.20:8080")
-        .AllowAnyMethod()
-        .AllowAnyHeader()
-        .AllowCredentials());
+    options.AddPolicy("CorsPolicy", policy =>
+    {
+        var allowedOrigins = builder.Configuration.GetValue<string>("AllowedOrigins");
+        policy.WithOrigins(allowedOrigins.Split(";"))
+              .AllowCredentials()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
 });
+
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -38,5 +42,5 @@ app.UseSwaggerUI(options =>
     options.RoutePrefix = string.Empty;
 });
 
-//app.Run();                                // global https://sledz.fokser.com
-app.Run("http://192.168.1.20:5200");       // local
+//app.Run();                                // global https://sledz.fokser.com ; for debugging: http://localhost:5142/
+app.Run("http://192.168.1.163:5200");       // local, can be moved to launchSettings.json

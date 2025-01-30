@@ -10,7 +10,7 @@ namespace TrackerApi.Proximity
             float nextLatitude, nextLongitude;
             bool isInside = false;
 
-            for (int i=0; i < zone.Points.Count; i++)
+            for (int i = 0; i < zone.Points.Count; i++)
             {
                 currentLatitude = zone.Points[i].Latitude;
                 currentLongitude = zone.Points[i].Longitude;
